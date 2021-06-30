@@ -3,12 +3,4 @@
 # MySQL
  Projetos de bancos de dados em MySQL
  
-•	Criando Banco de Dados MySQL. 
-•	Melhorando Banco de Dados. 
-•	INSERT INTO. 
-•	ALTER TABLE DROP TABLE. 
-•	UPDATE DELETE TRUNCATE. 
-•	SELECT. 
-•	Modelo Relacional. 
-•	Chave Estrangeira. 
-•	Relacionamentos 
+•	Este repositório tem o objetivo de  armazenar os projetos criados enquanto estudo.
